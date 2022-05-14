@@ -1,0 +1,18 @@
+.card {
+  width: fit-content;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding-bottom: 2rem;
+}
+.txt {
+  text-align: center;
+}
+.item {
+  padding-top: 2rem;
+}
